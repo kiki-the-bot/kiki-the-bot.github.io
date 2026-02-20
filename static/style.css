@@ -1,0 +1,17 @@
+body { margin: 0;
+     background-color : #121212;
+     color: #e0e0e0;
+     font-family: monospace;
+     }
+     
+.container{display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 100vh;
+          }
+
+.portfolio-card{color:#1b1b ;
+               padding: 50px;
+               border-radius: 12px;
+               text-align: center;
+               }
