@@ -1,17 +1,22 @@
+*{border: 2px solid hotpink;
+
+}
+
+
 body { margin: 0;
      background-color : #121212;
      color: #e0e0e0;
-     font-family: monospace;
+     font-family: 'Fira Code', monospace;
      }
      
-.container{display: flex;
+.wrapper{display: flex;
           justify-content: center;
           align-items: center;
-          height: 100vh;
           }
 
-.portfolio-card{color:#1b1b ;
-               padding: 50px;
-               border-radius: 12px;
+.spinning-thong{color:#1b1b ;
+               margin: 100px;
                text-align: center;
+               display: flex;
                }
+
